@@ -1,6 +1,7 @@
 # Hello! 👋
 
-I am a motivated and solution-oriented **Bachelor of Business Administration in Information Technology** with a passion for **game development**.  
+I am a motivated and solution-oriented **Bachelor of Business Administration in Information Technology** with a passion for **game development**.
+
 I am diligent, organized, and a creative professional who always strives to find efficient solutions. During my internships, I have received praise for the quality of my work and my positive attitude.
 
 ## My Interests ✨

@@ -11,7 +11,7 @@ I particularly enjoy:
 - 🛠️ **Level design**  
 - 💻 **Game programming**  
 
-I am currently building my GitHub portfolio, and my next goal is to create a personal website that showcases my projects, skills, and creativity. Stay tuned for updates as I work towards this exciting milestone! 🚀
+I am currently building my GitHub portfolio, and my next goal is to create a personal website that showcases my skills and creativity! 🚀
 
 <!--
 **devmiska/devmiska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
